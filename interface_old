@@ -1,0 +1,94 @@
+        
+        ############################### WOOD ###############################
+
+        pygame.draw.line(
+            windows, # Surface de destination
+            (255, 255, 255), # Couleur
+            (500, 95), # Point de départ (x, y)
+            (500, 175), # Point d'arrivée (x, y)
+            5 # Épaisseur (optionnel)
+        )
+
+        pygame.draw.line(
+            windows, # Surface de destination
+            (139, 69, 19), # Couleur
+            (50, 540), # Point de départ (x, y)
+            (450, 540), # Point d'arrivée (x, y)
+            20 # Épaisseur (optionnel)
+        )
+
+        pygame.draw.line(
+            windows, # Surface de destination
+            (139, 69, 19), # Couleur
+            (346, 97), # Point de départ (x, y)
+            (250, 205), # Point d'arrivée (x, y)
+            20 # Épaisseur (optionnel)
+        )
+
+        pygame.draw.line(
+            windows, # Surface de destination
+            (139, 69, 19), # Couleur
+            (250, 550), # Point de départ (x, y)
+            (250, 100), # Point d'arrivée (x, y)
+            20 # Épaisseur (optionnel)
+        )
+
+        pygame.draw.line(
+            windows, # Surface de destination
+            (139, 69, 19), # Couleur
+            (241, 95), # Point de départ (x, y)
+            (510, 95), # Point d'arrivée (x, y)
+            20 # Épaisseur (optionnel)
+        )
+
+        ############################### BODY ###############################
+
+
+
+        pygame.draw.line(
+            windows, # Surface de destination
+            (0, 0, 0), # Couleur
+            (500, 265), # Point de départ (x, y)
+            (500, 350), # Point d'arrivée (x, y)
+            5 # Épaisseur (optionnel)
+        )
+
+        pygame.draw.line(
+            windows, # Surface de destination
+            (0, 0, 0), # Couleur
+            (500, 350), # Point de départ (x, y)
+            (450, 420), # Point d'arrivée (x, y)
+            5 # Épaisseur (optionnel)
+        )
+
+        pygame.draw.line(
+            windows, # Surface de destination
+            (0, 0, 0), # Couleur
+            (500, 350), # Point de départ (x, y)
+            (550, 420), # Point d'arrivée (x, y)
+            5 # Épaisseur (optionnel)
+        )
+
+        pygame.draw.circle(
+            windows, # Surface de destination
+            (0, 0, 0), # Couleur
+            (500, 220), # Point de départ (x, y)
+            220 - 175,
+            5 # Épaisseur (optionnel)
+        )
+
+        pygame.draw.line(
+            windows, # Surface de destination
+            (0, 0, 0), # Couleur
+            (550, 300), # Point de départ (x, y)
+            (500, 300), # Point d'arrivée (x, y)
+            5 # Épaisseur (optionnel)
+        )
+
+        pygame.draw.line(
+            windows, # Surface de destination
+            (0, 0, 0), # Couleur
+            (450, 300), # Point de départ (x, y)
+            (500, 300), # Point d'arrivée (x, y)
+            5 # Épaisseur (optionnel)
+        )
